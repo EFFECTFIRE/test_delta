@@ -1,11 +1,11 @@
 # test_delta
 
-A new Flutter project.
+Тестовое приложение с webView.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-Тестовое приложение с webView.
+
 
 A few resources to get you started if this is your first Flutter project:
 
