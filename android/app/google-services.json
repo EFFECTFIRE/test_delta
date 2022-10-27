@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "866829223108",
+    "project_id": "surguchev-5b3a7",
+    "storage_bucket": "surguchev-5b3a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866829223108:android:a57a197f2a13a0773a7591",
+        "android_client_info": {
+          "package_name": "mesterw.winline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866829223108-24m1g75e575svjcjta32ni5qu3nfjhss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLb9dcLbaLJtdACX58u6jlqVxLSb7ZTx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866829223108-24m1g75e575svjcjta32ni5qu3nfjhss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
